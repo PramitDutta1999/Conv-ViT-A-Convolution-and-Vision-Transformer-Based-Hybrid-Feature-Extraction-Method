@@ -22,7 +22,7 @@ The model was trained and tested on a publicly available OCT dataset containing 
 
 ### 02. Run All Cells: Follow the cells step-by-step. All dependencies are automatically installed, and the code is fully compatible with Colab.
 
-### 03. Dataset: The notebook downloads and prepares the OCT dataset automatically from its source or Google Drive if needed.
+### 03. Adjust File Paths: Update file paths in code cells accordingly.
 
 ## Reference
 
