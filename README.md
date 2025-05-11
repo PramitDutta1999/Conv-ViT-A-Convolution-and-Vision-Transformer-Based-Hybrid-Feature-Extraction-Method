@@ -26,6 +26,6 @@ The model was trained and tested on a publicly available OCT dataset containing 
 
 ## Reference
 
-This work is based on the published paper: *Conv-ViT: A Convolution and Vision Transformer-Based Hybrid Feature Extraction Method for Retinal OCT Classification*  [Read the full paper here](https://www.mdpi.com/2313-433X/9/7/140)
+This work was published as: *Conv-ViT: A Convolution and Vision Transformer-Based Hybrid Feature Extraction Method for Retinal OCT Classification*  [Read the full paper here](https://www.mdpi.com/2313-433X/9/7/140)
 
 If you use this code or model in your research, please cite the paper to acknowledge the original work.
