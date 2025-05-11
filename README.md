@@ -1,3 +1,31 @@
 # Conv-ViT-A-Convolution-and-Vision-Transformer-Based-Hybrid-Feature-Extraction-Method
- This repository contains weight and code of Conv-ViT framework to detect retinal desease
- Please check out the paper based on this project at this <a href="https://www.mdpi.com/2313-433X/9/7/140">URL</a>
+
+This project implements Conv-ViT, a hybrid deep learning architecture combining convolutional neural networks (CNNs) and Vision Transformers (ViTs) for effective retinal disease classification using Optical Coherence Tomography (OCT) images.
+
+## Overview
+Conv-ViT leverages the texture-learning capabilities of CNNs (Inception-V3 and ResNet-50) and the global feature extraction power of Vision Transformers to enhance OCT image classification. The model classifies images into four categories: CNV, DME, Drusen, and Normal.
+
+## Key Features
+-Hybrid architecture combining CNN and ViT
+
+-Enhanced feature extraction from OCT images
+
+-Achieves ~94% accuracy on standard datasets
+
+-Applied to real-world retinal disease classification
+
+## Dataset
+The model was trained and tested on a publicly available OCT dataset containing labeled images for CNV, DME, Drusen, and Normal classes.
+
+## How to Use
+### 01. Open in Colab: Click the button below to launch the notebook in Google Colab:
+
+### 02. Run All Cells: Follow the cells step-by-step. All dependencies are automatically installed, and the code is fully compatible with Colab.
+
+### 03. Dataset: The notebook downloads and prepares the OCT dataset automatically from its source or Google Drive if needed.
+
+## Reference
+
+This work is based on the published paper: *Conv-ViT: A Convolution and Vision Transformer-Based Hybrid Feature Extraction Method for Retinal OCT Classification*  [Read the full paper here](https://www.mdpi.com/2313-433X/9/7/140)
+
+If you use this code or model in your research, please cite the paper to acknowledge the original work.
