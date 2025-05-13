@@ -18,11 +18,11 @@ Conv-ViT leverages the texture-learning capabilities of CNNs (Inception-V3 and R
 The model was trained and tested on a publicly available OCT dataset containing labeled images for CNV, DME, Drusen, and Normal classes.
 
 ## How to Use
-### 01. Open in Colab: Click the button below to launch the notebook in Google Colab:
+01. Open in Colab: Click the button below to launch the notebook in Google Colab:
 
-### 02. Run All Cells: Follow the cells step-by-step. All dependencies are automatically installed, and the code is fully compatible with Colab.
+02. Run All Cells: Follow the cells step-by-step. All dependencies are automatically installed, and the code is fully compatible with Colab.
 
-### 03. Adjust File Paths: Update file paths in code cells accordingly.
+03. Adjust File Paths: Update file paths in code cells accordingly.
 
 ## Reference
 
