@@ -4,7 +4,7 @@ This project implements Conv-ViT, a hybrid deep learning architecture combining 
 
 ## Overview
 Conv-ViT leverages the texture-learning capabilities of CNNs (Inception-V3 and ResNet-50) and the global feature extraction power of Vision Transformers to enhance OCT image classification. The model classifies images into four categories: CNV, DME, Drusen, and Normal.
-**This work was conducted as part of my undergraduate thesis project. You can [read the full thesis here]([https://your-thesis-link.com](https://www.researchgate.net/publication/372343833_CONV-VIT_A_CONVOLUTION_AND_VISION_TRANSFORMER_BASED_HYBRID_FEATURE_EXTRACTION_METHOD_FOR_RETINAL_DISEASE_DETECTION)).**
+>This work was conducted as part of my undergraduate thesis project. You can [read the full thesis here](https://your-thesis-link.com](https://www.researchgate.net/publication/372343833_CONV-VIT_A_CONVOLUTION_AND_VISION_TRANSFORMER_BASED_HYBRID_FEATURE_EXTRACTION_METHOD_FOR_RETINAL_DISEASE_DETECTION).
 
 ## Key Features
 -Hybrid architecture combining CNN and ViT
